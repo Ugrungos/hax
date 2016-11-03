@@ -1,2 +1,2 @@
-# hax
-Zyg
+# Ultimate Hax
+Great addon
